@@ -1,5 +1,5 @@
 /********************
-#Class: kanbanControllerr
+#Class: kanbanController
 #Desc:
 **********************/
 public class kanbanController{
